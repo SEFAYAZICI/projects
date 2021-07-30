@@ -1,0 +1,8 @@
+instructor:
+  name: charlie
+  department: devops
+  job: cloud
+students:
+  - name: ahmet
+  - age: 33
+description: aws dersindeyim...
